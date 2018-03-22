@@ -14,5 +14,6 @@ Rename 'configuration_template.xml' to 'configuration.xml'
 # Requirements
 
 Run the requirements.txt with pip to install the required packages for python 2.7\n
+Requires an installation of Google Chrome - using the Google Chrome webdrivers
 
 Enable to google calendar API and get the client_secret.json file - see this tutorial https://developers.google.com/calendar/quickstart/python 
