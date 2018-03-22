@@ -98,7 +98,6 @@ def request_plan(student_id, student, site_url, userid, pwd, suspendmode):
                 try:
                     browser.get(construct_url(student, student_id, site_url, suspendmode))
 
-                    # browser.get('https://skovlundeskole.m.skoleintra.dk/parent/460/Noraitem/weeklyplansandhomework/item/class/12-2018')
                     html_source = browser.page_source
 
                     parsed_html = BeautifulSoup(html_source)
