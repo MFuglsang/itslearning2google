@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<students>
+		<student>
+			<student_id></student_id>
+			<student_name></student_name>
+			<site_path></site_path>
+			<username></username>
+			<password></password>
+			<calendar_id></calendar_id>
+		</student>
+	</students>
+</configuration>
