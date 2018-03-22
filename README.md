@@ -9,7 +9,7 @@ To configure the aplication, fill in the configuration.xml document with the inf
 \n
 The script requires autenthication with the Google API. On first run, a browser will open, and you will be propted to log in. A file named client_secret.json will be created. Modify the name of the file to client_secret_your-student-id.json, and place it in the root folder of the application. 
 
-
+Rename 'configuration_template.xml' to 'configuration.xml' 
 
 # Requirements
 
