@@ -9,7 +9,7 @@ def main():
     logs.write_log('***** Starting script *****', '')
 
     configuration = os.path.dirname(os.path.abspath(__file__)) + '/configuration.xml'
-    suspendweekmode = -1
+    suspendweekmode = 0
 
     students =  config.read_config(configuration)
 
